@@ -1,3 +1,4 @@
+#Myapp P02
 library(shiny)
 
 Samplesize_OR = function(alpha,power,OR,r,p0,corr=FALSE) {

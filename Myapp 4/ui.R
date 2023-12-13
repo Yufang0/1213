@@ -1,3 +1,4 @@
+#Myapp 4
 library(shiny)
 
 # Define UI for application that calculate the needed sample size 

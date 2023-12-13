@@ -1,3 +1,4 @@
+#Myapp 2
 navbarPage(
   title = 'DataTable Options',
   tabPanel('Display length',     DT::dataTableOutput('ex1')),
